@@ -5,7 +5,8 @@ date: "2019-07-29T12:00:00Z"
 draft: false
 
 authors:
-- admin- Eric Lucet
+- admin
+- Eric Lucet
 - Roland Lenain
 
 # Publication type.
@@ -26,7 +27,7 @@ abstract: "This paper proposes a method for dynamically varying the gains of a m
 image_preview: ""
 
 # Is this a selected publication? (true/false)
-featured: false
+featured: true
 
 
 # Associated Projects (optional).
