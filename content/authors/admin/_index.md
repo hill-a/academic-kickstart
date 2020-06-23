@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ashley WD Hill
+name: Ashley W.D. Hill
 
 # Username (this should match the folder name)
 authors:
@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Ashley Hill, a PhD student in Artificial Intelligence applied to Mobile Robots. You can usually find me playing around with Machine Learning, Robotics, Electronics, Astronomy, and Programming.
+I'm Ashley Hill, a brit who has spent his life in france. Currently a PhD student in Artificial Intelligence applied to Mobile Robots. You can usually find me playing around with Machine Learning, Robotics, Electronics, Astronomy, and Programming.

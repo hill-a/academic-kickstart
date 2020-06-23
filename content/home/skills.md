@@ -54,7 +54,13 @@ subtitle = ""
   icon = "play"
   icon_pack = "fas"
   name = "Reinforcement Learning"
-  description = "95%"  
+  description = "95%"
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "French & English"
+  description = "Biligual"
 
 # Uncomment to use emoji icons.
 # [[feature]]

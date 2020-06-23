@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< video library="1" src="gain_video.mp4" controls="yes" >}} 

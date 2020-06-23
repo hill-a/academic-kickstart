@@ -21,10 +21,11 @@ publication_short: "ICINCO 2019"
 
 # Abstract and optional shortened version.
 abstract: "This paper proposes a method for dynamically varying the gains of a mobile robot controller that takes into account, not only errors to the reference trajectory but also the uncertainty in the localisation. To do this, the covariance matrix of a state observer is used to indicate the precision of the perception. CMA-ES, an evolutionary algorithm is used to train a neural network that is capable of adapting the robot's behaviour in real-time. Using a car-like vehicle model in simulation. Promising results show significant trajectory following performances improvements thanks to control gains fluctuations by using this new method. Simulations demonstrate the capability of the system to control the robot in complex environments, in which classical static controllers could not guarantee a stable behaviour."
+
 # summary: ""
 
 # Featured image thumbnail (optional)
-image_preview: ""
+image_preview: "featured.mp4"
 
 # Is this a selected publication? (true/false)
 featured: true
@@ -51,7 +52,7 @@ url_code: ""
 url_dataset: ""
 url_project: ""
 url_slides: "slides/Icinco_presentation.pdf"
-url_video: ""
+url_video: "img/gain_video.mp4"
 url_poster: ""
 url_source: ""
 
