@@ -60,7 +60,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "French & English"
-  description = "Biligual"
+  description = "Bilingual"
 
 # Uncomment to use emoji icons.
 # [[feature]]
