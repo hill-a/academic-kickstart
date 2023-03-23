@@ -194,6 +194,34 @@ sections:
           description: 40%
           icon: memory
           icon_pack: fas
+  - block: features
+    content:
+      title: What I do in my free time
+      items:
+        - name: Rock climbing
+          description: Boldering
+          icon: hand-back-fist
+          icon_pack: fas
+        - name: Cycling
+          description: Exploring
+          icon: bicycle
+          icon_pack: fas
+        - name: Piano
+          description: 10 years
+          icon: guitar
+          icon_pack: fas
+        - name: Hobby electronics
+          description: Most of my projects
+          icon: user-edit
+          icon_pack: fas
+        - name: Programming & Servers
+          description: Running a local portainer & hobby coding
+          icon: terminal
+          icon_pack: fas
+        - name: Model Painting
+          description: <style>.hover_img a { position:relative; } .hover_img a span { position:absolute; display:none; z-index:99; } .hover_img a:hover span { display:inline; }</style> <div class="hover_img"> <a href="eldrad.jpg"><span><img src="eldrad.jpg" alt="image"  width="100px" height="100px"/></span>Warhammer figurines</a> </div>
+          icon: palette
+          icon_pack: fas
   - block: tag_cloud
     content:
       title: Popular Topics

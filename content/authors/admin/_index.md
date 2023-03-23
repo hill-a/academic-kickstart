@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher Engineer specialized in machine learning applied to robotics
+role: PhD Researcher Engineer specialized in machine learning applied to robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm Ashley Hill, a brit who has spent his life in france. Currently a Researcher Engineer specialized in machine learning applied to robotics. You can usually find me playing around with Machine Learning, Robotics, Electronics, Astronomy, and Programming.
+I'm Ashley Hill, a Brit who has spent his life in France. Currently a Researcher Engineer specialized in machine learning applied to robotics. You can usually find me playing around with Machine Learning, Robotics, Electronics, Astronomy, and Programming.
 {style="text-align: justify;"}
 
 Here is my [thesis](PhD.pdf) for the curious.
