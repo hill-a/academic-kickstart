@@ -28,7 +28,7 @@ abstract: "This paper proposes a method for dynamically varying the gains of a m
 image_preview: "featured.mp4"
 
 # Is this a selected publication? (true/false)
-featured: true
+featured: false
 
 
 # Associated Projects (optional).

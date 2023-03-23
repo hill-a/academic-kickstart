@@ -12,6 +12,7 @@ summary: "S-RL Toolbox: Reinforcement Learning (RL) and State Representation Lea
 # Tags: can be used for filtering projects.
 tags:
 - Deep Learning
+- machine learning
 - Reinforcement Learning
 - Python
 - State Representation Learning

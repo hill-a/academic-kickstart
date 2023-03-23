@@ -25,7 +25,7 @@ image:
   caption:
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: Center
+  focal_point: Smart
 
 ---
 
