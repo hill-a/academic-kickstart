@@ -8,7 +8,7 @@ last_name: Hill
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: <a href="https://tunnel.hill-a.me/">🤖</a>
 
 # Is this the primary user of the site?
 superuser: true
